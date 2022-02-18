@@ -19,62 +19,54 @@ namespace Linked_List
     class LinkedList
     {
         Node head;
+        Node tail;
+        int len;
         public LinkedList()
         {
-            head = null;
+            tail = null;
+            head = tail;
         }
         public void AddLast(Node n)
         {
             if (head == null)
             {
-                head = n;
+                tail = n;
+                head = tail;
+                len++;
                 return;
             }
-            Node cur = head;
-            while (cur.next != null) 
-                cur = cur.next;
+            Node cur = tail;
             cur.next = n;
+            tail = cur.next;
+            len++;
         }
-        public bool Exist(Node n)
+        public Node Exist(Node n)
         {
             Node cur = head;
             while (cur.next != null)
             {
                 if (cur.val == n.val)
-                    return true;
+                    return cur;
                 cur = cur.next;
             }
-            return false;
-        }
-        public int Len()
-        {
-            if (head == null)
-                return 0;
-            Node cur = head;
-            int element = 0;
-            while(cur.next != null)
-            {
-                element++;
-                cur = cur.next;
-            }
-            element++;
-            return element;
+            return null;
         }
         public void AddFirst(Node n)
         {
             n.next = head;
             head = n;
+            len++;
         }
-        public void AddAfter(Node nodeAfter, Node nodeTo)
+        public bool AddAfter(Node nodeAfter, Node nodeTo)
         {
-            Node cur = head;
-            if (Exist(nodeAfter) == false)
-                return;
-            while (cur.val != nodeAfter.val && cur.next != null)
-                cur = cur.next;
+            if (Exist(nodeAfter) == null)
+                return false;
+            Node cur = Exist(nodeAfter);
             Node tmp = cur.next;
             cur.next = nodeTo;
             cur.next.next = tmp;
+            len++;
+            return true;
         }
         public void Print()
         {
@@ -89,43 +81,44 @@ namespace Linked_List
                 cur = cur.next;
             }
         }
-        public int FindByVaL(Node n)
+        public Node FindByVaL(int n)
         {
             if (head == null)
-                return 0;
+                return null;
             Node cur = head;
             int firstPosition = 0;
-            while(cur.val != n.val && cur.next != null)
+            while (cur.val != n && cur.next != null)
             {
                 cur = cur.next;
                 firstPosition++;
             }
-            return firstPosition;
+            return cur;
         }
-        public string FindAllByVal(Node n)
+        public LinkedList FindAllByVal(int n)
         {
-            string str = "";
             if (head == null)
-                return str;
+                return null;
+            LinkedList linkedList = new LinkedList();
             Node cur = head;
-            for (int i = 0; i < Len(); i++)
+            for (int i = 0; i < len; i++)
             {
-                if (cur.val == n.val)
-                    str += i + " ";
+                if (cur.val == n)
+                    linkedList.AddLast(cur);
                 cur = cur.next;
             }
-            return str;
+            return linkedList;
         }
         public void Clear()
         {
             head = null;
+            len = 0;
         }
     }
     class Program
     {
         static void Main(string[] args)
         {
-            
+
         }
     }
 }
