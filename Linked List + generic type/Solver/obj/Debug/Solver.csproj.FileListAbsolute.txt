@@ -1,0 +1,20 @@
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Solver.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Solver.pdb
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Linked List + generic type.exe
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Linked List + generic type.pdb
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Linked List + generic type.exe.config
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\obj\Debug\Solver.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\obj\Debug\Solver.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\obj\Debug\Solver.csproj.CopyComplete
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\obj\Debug\Solver.dll
+C:\Users\Михаил\source\repos\Linked List + generic type\Solver\obj\Debug\Solver.pdb

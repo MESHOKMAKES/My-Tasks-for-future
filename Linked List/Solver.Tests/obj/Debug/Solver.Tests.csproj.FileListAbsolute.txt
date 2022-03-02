@@ -1,0 +1,20 @@
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Solver.Tests.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Solver.Tests.pdb
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Linked List.exe
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Linked List.pdb
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Linked List.exe.config
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\obj\Debug\Solver.Tests.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\obj\Debug\Solver.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\obj\Debug\Solver.Tests.csproj.CopyComplete
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\obj\Debug\Solver.Tests.dll
+C:\Users\Михаил\source\repos\My task\Linked List\Solver.Tests\obj\Debug\Solver.Tests.pdb

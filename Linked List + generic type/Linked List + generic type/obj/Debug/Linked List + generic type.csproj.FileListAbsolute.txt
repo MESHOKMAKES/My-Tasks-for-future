@@ -1,0 +1,7 @@
+C:\Users\Михаил\source\repos\Linked List + generic type\Linked List + generic type\bin\Debug\Linked List + generic type.exe.config
+C:\Users\Михаил\source\repos\Linked List + generic type\Linked List + generic type\bin\Debug\Linked List + generic type.exe
+C:\Users\Михаил\source\repos\Linked List + generic type\Linked List + generic type\bin\Debug\Linked List + generic type.pdb
+C:\Users\Михаил\source\repos\Linked List + generic type\Linked List + generic type\obj\Debug\Linked List + generic type.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\Linked List + generic type\Linked List + generic type\obj\Debug\Linked List + generic type.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Linked List + generic type\Linked List + generic type\obj\Debug\Linked List + generic type.exe
+C:\Users\Михаил\source\repos\Linked List + generic type\Linked List + generic type\obj\Debug\Linked List + generic type.pdb

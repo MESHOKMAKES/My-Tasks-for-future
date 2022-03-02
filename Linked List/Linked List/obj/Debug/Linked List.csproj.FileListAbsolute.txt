@@ -5,3 +5,10 @@ C:\Users\Михаил\source\repos\Linked List\Linked List\obj\Debug\Linked List
 C:\Users\Михаил\source\repos\Linked List\Linked List\obj\Debug\Linked List.exe
 C:\Users\Михаил\source\repos\Linked List\Linked List\obj\Debug\Linked List.pdb
 C:\Users\Михаил\source\repos\Linked List\Linked List\obj\Debug\Linked List.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\My task\Linked List\Linked List\bin\Debug\Linked List.exe.config
+C:\Users\Михаил\source\repos\My task\Linked List\Linked List\bin\Debug\Linked List.exe
+C:\Users\Михаил\source\repos\My task\Linked List\Linked List\bin\Debug\Linked List.pdb
+C:\Users\Михаил\source\repos\My task\Linked List\Linked List\obj\Debug\Linked List.csproj.AssemblyReference.cache
+C:\Users\Михаил\source\repos\My task\Linked List\Linked List\obj\Debug\Linked List.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\My task\Linked List\Linked List\obj\Debug\Linked List.exe
+C:\Users\Михаил\source\repos\My task\Linked List\Linked List\obj\Debug\Linked List.pdb
